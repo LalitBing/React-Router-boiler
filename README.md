@@ -2,7 +2,7 @@
 
 This is a boiler for React Router v6.
 
-- <BrowserRouter>
+- <<BrowserRouter>>
 - <Routes>
 - <Route>
 - <Link>
